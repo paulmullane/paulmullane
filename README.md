@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulmullane
 - 👀 I’m a PhD student at the University of Limerick
-- 📫 How to reach me: LinkedIn - @Paul Mullane, Email - 20229798@studentmail.ul.ie
+- 📫 How to reach me: LinkedIn - @Paul Mullane, Email - mullane.paul@ul.ie
 
 <!---
 paulmullane/paulmullane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
